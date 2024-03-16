@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1680184552 source:e:\g uzdevums\g uzd\functions.cpp
+	"FunctionLinked.h"
+	<iostream>
+
+1680184570 e:\g uzdevums\g uzd\functionlinked.h
+
+1680184570 source:e:\g uzdevums\g uzd\linkedlist.cpp
+	<iostream>
+	"FunctionLinked.h"
+
+1680182980 source:e:\g uzdevums\g uzd\stllits.cpp
+	<iostream>
+	<list>
+
